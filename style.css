@@ -1,0 +1,30 @@
+
+body {
+    background-color: #001E2F;
+}
+
+h1 {
+    color: #f98c84;
+    font-family: Arial, Helvetica, sans-serif;
+} /* Declare that the h1 selector is defined by the properties, color, background-color, and font-family. The values of these properties, respectively, are pink, royal blue, and courier new font */
+
+ul {
+    color: #FCF497;
+}
+
+a {
+    color: #FCF497;
+}
+
+a:hover {
+    color: #79d1aa;
+}
+
+a:active {
+    color: #f98c84;
+}
+
+a:visited {
+    color: #8d84c3;
+}
+
